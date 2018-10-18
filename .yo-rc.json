@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "micduffy",
+    "githubRepoName": "search-bar",
+    "npmModuleName": "search-bar",
+    "ngModuleName": "SearchBarModule",
+    "selectorPrefix": "efx",
+    "projectTitle": "search bar",
+    "projectDescription": "Search Bar Test",
+    "authorName": "Mike Duffy",
+    "packageManager": "npm"
+  }
+}

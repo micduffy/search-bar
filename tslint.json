@@ -1,0 +1,9 @@
+{
+  "extends": "tslint-config-mwl",
+  "rules": {
+    "directive-selector": [true, "attribute", "efx", "camelCase"],
+    "component-selector": [true, "element", "efx", "kebab-case"],
+    "pipe-naming": [true, "camelCase", "efx"],
+    "no-inferrable-types": false
+  }
+}
